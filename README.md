@@ -20,6 +20,11 @@ The first function is about using ESP32 Node MCU with Two sensors moisture and t
 
 The second Function is a Computer Vision model restricted to the data science lifecycle is used to build an Image Classification model that is able to early detect if the image of rice is diagnosed or not this model is built using ResNet with a High accuracy of the above 97%
 
+Using ResNet model to enhance image classification for this specific problem to help for early detection about rice disease with very accuracte model 
+first ther were bias in data, eliminate this problem using data augmentation techniques to make data balanced and more consice
+
+
+
 ![Screenshot 2023-05-29 234244](https://github.com/MohamedWaelAlsayed/rice-up/assets/62488272/d5540a5d-cb2a-49f6-b889-a567ace36654)
 
 
